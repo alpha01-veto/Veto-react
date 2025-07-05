@@ -1,0 +1,20 @@
+.Chat {
+  background-color: white;
+  width: 500px;
+  margin: 0 auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.4);
+  padding: 20px;
+  /* height: 300px; */
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+.Messages {
+  width: 500px;
+  background-color: white;
+}
+.Input {
+  width: 400px;
+  margin: 0 auto;
+  justify-content: center;
+}

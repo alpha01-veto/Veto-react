@@ -1,0 +1,87 @@
+.Data {
+  width: 500px;
+
+  margin: 0 auto;
+}
+.Div1 {
+  display: grid;
+  grid-template-columns: 0.5fr 0.5fr 0.5fr;
+}
+.slab1 {
+  display: grid;
+  border-radius: 10px;
+  width: 100px;
+  margin: 0 auto;
+}
+.Div2 {
+  display: grid;
+  grid-template-columns: 0.5fr 0.5fr 0.5fr;
+}
+.slab2 {
+  display: grid;
+  border-radius: 10px;
+  width: 100px;
+  margin: 0 auto;
+}
+.Div3 {
+  display: grid;
+  grid-template-columns: 0.5fr 0.5fr 0.5fr;
+}
+.slab3 {
+  display: grid;
+  border-radius: 10px;
+  width: 100px;
+  margin: 0 auto;
+}
+.Div4 {
+  display: grid;
+  grid-template-columns: 0.5fr 0.5fr 0.5fr;
+}
+.slab4 {
+  display: grid;
+  border-radius: 10px;
+  width: 100px;
+  margin: 0 auto;
+}
+.Div5 {
+  display: grid;
+  grid-template-columns: 0.5fr 0.5fr 0.5fr;
+}
+.slab5 {
+  display: grid;
+  border-radius: 10px;
+  width: 100px;
+  margin: 0 auto;
+}
+.Div6 {
+  display: grid;
+  grid-template-columns: 0.5fr 0.5fr;
+}
+.slab6 {
+  display: grid;
+  border-radius: 10px;
+  width: 100px;
+  margin: 0 auto;
+}
+.databutton {
+  border-radius: 50px;
+  color: white;
+  font-weight: bold;
+  background-color: rgb(24, 117, 24);
+  border: none;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  padding: 3px;
+}
+.amountdisplay {
+  font-weight: bold;
+  color: black;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.firstheading {
+  margin: 0 auto;
+  width: 500px;
+  text-align: center;
+  margin-top: 40px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
